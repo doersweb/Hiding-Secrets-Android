@@ -1,5 +1,3 @@
-
-Markdown
 # Android Project with Secure API Key Handling
 
 This Android project demonstrates how to securely manage API keys and secrets by reading them from a `local.properties` file or environment variables using JNI with C++.
