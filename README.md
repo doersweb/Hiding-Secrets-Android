@@ -65,7 +65,7 @@ The project uses JNI to securely handle API keys and secrets. The JNI code is wr
 
 ### Troubleshooting
 - #### Blank values:
-  Ensure that the local.properties file is correctly pushed to the device and located at /data/local/tmp/.
+  Ensure that the `local.properties` file is correctly pushed to the device and located at `/data/local/tmp/`.
 
 
 ### Usage
