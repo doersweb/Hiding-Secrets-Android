@@ -23,8 +23,7 @@ This Android project demonstrates how to securely manage API keys and secrets by
 ### Setup
 #### Step 1: Clone the Repository
 ```bash
-git clone [https://github.com/doersweb/Hiding-Secrets-Android.git](https://github.com/doersweb/Hiding-Secrets-Android.git)
-cd Hiding-Secrets-Android
+git clone https://github.com/doersweb/Hiding-Secrets-Android.git
 ```
 
 #### Step 2: Configure local.properties
