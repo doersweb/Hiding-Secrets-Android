@@ -35,7 +35,7 @@ ANOTHER_KEY="SUPERSECREKEY"
 ```
 
 #### Step 3: Build and Run the Project
-- ##### Push local.properties to the device : 
+- ##### Setup environment to read values: 
   Use the following command to push the local.properties file to the device:
   ```bash
   adb push local.properties /data/local/tmp/
